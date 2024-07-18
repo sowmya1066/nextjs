@@ -1,3 +1,8 @@
 export default function MealSlug() {
-  return <h1>Dynamic</h1>;
+  return (
+    <>
+      <header></header>
+      <main></main>
+    </>
+  );
 }
